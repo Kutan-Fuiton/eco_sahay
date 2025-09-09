@@ -1,6 +1,30 @@
-# React
+# Eco-Sahay: Waste to Wealth
+An AI-powered waste management ecosystem transforming India's waste management landscape through technology, community engagement, and sustainable practices.
 
-A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
+## 🌿 Project Overview
+Eco-Sahay is a comprehensive waste management platform that combines digital intelligence, physical infrastructure, and human networks to create a sustainable waste management ecosystem. The platform follows a three-layer model:
+
+
+   Digital Platform (The Brain) - AI-powered intelligence driving smart waste management decisions
+   
+   - Rewards System: Gamified incentives for waste segregation
+   - AI Logistics: Optimized collection routes and scheduling
+   - Blockchain Traceability: Transparent waste tracking from source to processing
+   - Analytics Dashboard: Real-time insights and performance metrics
+
+   Eco-Hub (The Heart) - Physical processing centers transforming waste into valuable resources
+   
+   - E-waste Processing: Advanced recycling of electronic components
+   - Organic to Bio-CNG: Converting organic waste to clean energy
+   - Fertilizer Production: Creating nutrient-rich compost for agriculture
+   - Energy Generation: Sustainable power from waste materials
+
+   Human Network (The Hands) - Community-driven network of Eco-Sahayaks enabling local impact
+   
+   - Eco-Sahayaks: Trained community waste management champions
+   - Door-to-Door Collection: Convenient household waste pickup services
+   - Community Education: Awareness programs and training initiatives
+   - Social Impact: Creating employment and environmental benefits
 
 ## 🚀 Features
 
